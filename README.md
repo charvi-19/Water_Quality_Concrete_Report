@@ -1,3 +1,7 @@
+Charvi Raut 
+23BEC10076
+
+
 AIM
 
 The aim of this project is to develop a reliable machine learning system that can automatically predict whether a given water sample is suitable for use in concrete construction. By analyzing key chemical properties of water, the goal is to help engineers and construction teams make quick and accurate decisions on water quality, ensuring strong and durable concrete structures without the need for time-consuming manual testing.
